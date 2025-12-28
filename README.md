@@ -4,7 +4,7 @@ ceci est un projet de classe pour le cours de python, il s'agit d'implement des 
 
 Structure du projet
 
-bibliotheque_dit/
+pyproject_DITBiblio/
 │
 ├── data/       # Dossier pour la persistance (fichiers .txt ou .json)
 ├── logs/       # Journal des actions
